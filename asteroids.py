@@ -2,6 +2,8 @@ import pygame
 import math
 import random
 
+print("Hi")
+
 WIDTH = 800
 HEIGHT = 600
 
